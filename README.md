@@ -12,7 +12,9 @@ Deploy applications using simple inputs
 Avoid manual Kubernetes configuration
 Use standardized environments
 Get automatic deployment and access
-❗ Problem Statement
+
+
+Problem Statement
 
 Organizations face challenges such as:
 
